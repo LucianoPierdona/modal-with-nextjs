@@ -1,4 +1,4 @@
-# Apollo Client Setup
+# Modal With Next.js
 ### Application Made with Next.js.
 ### Thanks to [Leigh Halliday](https://github.com/leighhalliday) for helping me to do this project ;D
 
