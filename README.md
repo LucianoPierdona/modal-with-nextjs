@@ -1,5 +1,5 @@
 # Apollo Client Setup
-### Application Made with Next.js, Apollo and GraphQL
+### Application Made with Next.js.
 ### Thanks to [Leigh Halliday](https://github.com/leighhalliday) for helping me to do this project ;D
 
 <p>
